@@ -8,3 +8,5 @@ Aesir utilizes weight and style as opposed to color for visual separation and a 
 
 
 ![Aesir Green](./aesir-green.png "Aesir Green")
+
+File Icon used in screenshot is [VSCode Icons](https://github.com/vscode-icons/vscode-icons)
