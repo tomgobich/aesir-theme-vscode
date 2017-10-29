@@ -1,0 +1,26 @@
+{
+  "name": "aesir-theme",
+  "displayName": "Aesir Theme",
+  "description": "Aesir is a dark theme with a soft splash of color.",
+  "version": "1.0.3",
+  "publisher": "tomgobich",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [ "Themes" ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aesir Theme - Green",
+        "uiTheme": "vs-dark",
+        "path": "themes/aesir-theme-green.json"
+      },
+      {
+        "label": "Aesir Theme - Blue",
+        "uiTheme": "vs-dark",
+        "path": "themes/aesir-theme-blue.json"
+      }
+    ]
+  }
+}
